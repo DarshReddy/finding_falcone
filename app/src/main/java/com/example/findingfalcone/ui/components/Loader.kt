@@ -17,9 +17,7 @@ import androidx.compose.ui.unit.dp
 
 @Composable
 fun Loader(loading: Boolean) {
-
     if (!loading) return
-
     Column(
         modifier = Modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
