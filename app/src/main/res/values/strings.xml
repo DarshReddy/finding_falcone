@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Finding Falcone</string>
+    <string name="text_server_not_responding">Server Not Responding!</string>
+    <string name="text_no_internet_connection">No Internet Connection!</string>
+    <string name="text_something_went_wrong">Something went wrong!</string>
+    <string name="text_authentication_error">Authentication Error!</string>
+    <string name="reset">Reset</string>
+    <string name="reset_icon_label">Reset Icon Label</string>
+    <string name="find_falcone_success_message">Success! Congratulations on Finding Falcone. King Shan is mighty pleased!</string>
+    <string name="find_falcone_failed_message">Sorry, the teams failed to find Falcone!</string>
+    <string name="find_falcone_success_info">Time Taken: %1$d \nPlanet Found: %2$s</string>
+    <string name="total_time_taken">Total time taken: %1$d</string>
+    <string name="find_falcone">Find Falcone!</string>
+    <string name="select_for_team_message">Select planet and vehicle for \nTeam %1$d</string>
+    <string name="label_planet">Planet</string>
+    <string name="label_vehicle">Vehicle</string>
+    <string name="proceed">Proceed</string>
+    <string name="current_selected_teams">Current selected teams: (%1$d)</string>
+    <string name="selected_planet">Planet %1$s: %2$s</string>
+    <string name="selected_vehicle">Vehicle %1$s: %2$s</string>
+    <string name="select_label">Select %1$s</string>
+    <string name="drop_down_arrow">Drop down arrow</string>
+    <string name="drop_down_menu_item_tag">Dropdown Menu Item %1$s</string>
+    <string name="vehicle_info">%1$s (%2$d)</string>
+</resources>
